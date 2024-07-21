@@ -1,0 +1,5 @@
+.gitattributes
+__pycache__
+.git
+.idea
+.DS_store
